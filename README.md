@@ -1,0 +1,1 @@
+This repository demonstrates a common but frustrating issue in ActionScript 3: intermittent runtime errors with poor error reporting.  The `bug.as` file contains the problematic code, which sometimes throws an error without providing enough context for effective debugging. The `bugSolution.as` file offers a strategy to improve error handling and reporting.
